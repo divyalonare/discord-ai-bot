@@ -1,4 +1,4 @@
-# Discord AI Bot 🤖
+# Discord AI Bot 
 
 A Discord bot built with **Node.js** and **Discord.js v14** that handles message events and slash commands, backed by a **MongoDB** database for user management.
 
@@ -11,10 +11,11 @@ A Discord bot built with **Node.js** and **Discord.js v14** that handles message
 
 ## Tech Stack
 
-- **Runtime:** Node.js (ES Modules)
-- **Discord Library:** Discord.js v14
-- **Database:** MongoDB with Mongoose
-- **Config:** dotenv
+![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?logo=node.js&logoColor=white)
+![Discord.js v14](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 
 ## Project Structure
 
